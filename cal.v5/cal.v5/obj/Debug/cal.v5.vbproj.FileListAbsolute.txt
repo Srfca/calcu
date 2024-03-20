@@ -1,0 +1,12 @@
+C:\Users\PC\source\repos\cal.v5\cal.v5\bin\Debug\cal.v5.exe.config
+C:\Users\PC\source\repos\cal.v5\cal.v5\bin\Debug\cal.v5.exe
+C:\Users\PC\source\repos\cal.v5\cal.v5\bin\Debug\cal.v5.pdb
+C:\Users\PC\source\repos\cal.v5\cal.v5\bin\Debug\cal.v5.xml
+C:\Users\PC\source\repos\cal.v5\cal.v5\obj\Debug\cal.v5.vbproj.AssemblyReference.cache
+C:\Users\PC\source\repos\cal.v5\cal.v5\obj\Debug\cal.v5.Form1.resources
+C:\Users\PC\source\repos\cal.v5\cal.v5\obj\Debug\cal.v5.Resources.resources
+C:\Users\PC\source\repos\cal.v5\cal.v5\obj\Debug\cal.v5.vbproj.GenerateResource.cache
+C:\Users\PC\source\repos\cal.v5\cal.v5\obj\Debug\cal.v5.vbproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\cal.v5\cal.v5\obj\Debug\cal.v5.exe
+C:\Users\PC\source\repos\cal.v5\cal.v5\obj\Debug\cal.v5.xml
+C:\Users\PC\source\repos\cal.v5\cal.v5\obj\Debug\cal.v5.pdb
